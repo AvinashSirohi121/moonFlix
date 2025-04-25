@@ -143,33 +143,14 @@ Open your web browser and go to http://localhost:3000 to view the frontend appli
 
 ## Screenshots
 
-### Desktop
+
 
 #### Home Page
-![Home Page](./screenshots/desktop/homepage.png)
+![Home Page](.HomePage.jpg)
 
 #### Movies Page
-![Movies Page](./screenshots/desktop/moviespage.png)
+![Movies Page](.MovieSection.jpg)
 
-#### Genres Page
-![Genres Page](./screenshots/desktop/genrespage.png)
-
-#### Media Details
-![Media Details](./screenshots/desktop/mediadetails.png)
-
-### Mobile
-
-#### Home Page
-![Home Page](./screenshots/mobile/homepage.png)
-
-#### TV Page
-![TV Page](./screenshots/mobile/tvpage.png)
-
-#### Genres Page
-![Genres Page](./screenshots/mobile/genrespage.png)
-
-#### Sidebar
-![Sidebar](./screenshots/mobile/sidebar.png)
 
 ## Acknowledgements
 
