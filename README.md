@@ -146,10 +146,10 @@ Open your web browser and go to http://localhost:3000 to view the frontend appli
 
 
 #### Home Page
-![Home Page](.HomePage.jpg)
+![Home Page](HomePage.jpg)
 
 #### Movies Page
-![Movies Page](.MovieSection.jpg)
+![Movies Page](MovieSection.jpg)
 
 
 ## Acknowledgements
